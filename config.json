@@ -1,0 +1,18 @@
+{
+  "BOT_TOKEN": "",
+  "GUILD_ID": "550443821230456832",
+  "CLIENT_ID": "984815245488971776",
+  "Categories": [
+    "Currency Exchange",
+    "Engraving Recipe",
+    "Enhancement Material",
+    "Combat Supplies",
+    "Cooking",
+    "Trader",
+    "Adventurer's Tome",
+    "Sailing",
+    "Pets",
+    "Mount",
+    "Gem Chest"
+  ]
+}
